@@ -19,7 +19,7 @@ body {
     transform:translate(-50%,-50%);
 }
 .effect h3 {
-    font-size:19px;
+    font-size:31px;
     text-transform: uppercase;
     background:url("./img/3.jpg");
     background-clip:text;
